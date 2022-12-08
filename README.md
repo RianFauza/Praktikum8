@@ -12,3 +12,8 @@
 # TAMPILAN PROGRAM
 ![code](https://user-images.githubusercontent.com/115771479/206437662-21ea9f6d-0d9d-4553-ab60-15496cc790f5.png)
 ![Screenshot](https://user-images.githubusercontent.com/115771479/206437691-fd8935c6-b082-44fd-9554-e298d2697a16.png)
+
+
+# FLOWCART
+![image](https://user-images.githubusercontent.com/115771479/206468668-0387049a-8e9e-418d-a0d9-afd7df3e62ca.png)
+
